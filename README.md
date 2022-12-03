@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hollowlake
+- 👋 Hi, I’m @bellandari
 - 👀 I’m interested in gaming, photography, anime, and coding
 - 🌱 I’m currently learning python
 
