@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @bellandari
-- 👀 I’m interested in gaming, photography, anime, and coding
-- 🌱 I’m currently learning python
+- Yo! I'm @bellandari
+- I like anime, gaming, mechanical keyboards, and music. 
+- Python is the only language I know. 
+- I might learn more. 
 
 <!---
 hollowlake/hollowlake is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
